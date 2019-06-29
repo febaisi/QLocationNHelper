@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LNHelper</string>
+    <string name="grant_location_button">Grant Location</string>
+    <string name="status">Status:</string>
+    <string name="permission_all_the_time">All the time</string>
+    <string name="permission_while_in_foreground">While in foreground</string>
+    <string name="permission_not_granted">Not granted</string>
+    <string name="permission_denied_dont_ask">You\'ll have to the OS App Settings if you want enable the location permission.</string>
+    <string name="permission_denied_title">Pernmission denied</string>
+    <string name="ok">OK</string>
+</resources>
