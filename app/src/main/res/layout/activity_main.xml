@@ -51,9 +51,10 @@
                     android:layout_weight="1"
                     android:textAlignment="viewStart"
                     tools:text="No permissions!"
-                    android:layout_marginLeft="@dimen/margin_center_views"/>
+                    android:layout_marginStart="@dimen/margin_center_views"/>
 
         </LinearLayout>
+
 
     </LinearLayout>
 
